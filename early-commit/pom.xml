@@ -8,7 +8,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<springframework.version>4.3.20.RELEASE</springframework.version>
+		<springframework.version>5.3.19</springframework.version>
 		<jackson.version>2.9.5</jackson.version>
 	</properties>
 	<name>jaudio-kafka</name>
